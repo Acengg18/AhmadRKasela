@@ -1,4 +1,4 @@
-# Responsive Coffee Shop Website Design
-### This design is inspired by the work of [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas). Click [here](https://youtu.be/52sKmRsk7xU) to watch the video.
+# Responsive The cungs Coffee Shop Website Design
+### This design is inspired by the work of [Ahmad Rendra Kasel].
 
-![preview img](/preview.png)
+
